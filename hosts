@@ -13,7 +13,7 @@
 # 屏蔽当贝桌面向服务器发送本机应用列表（可能会导致当贝市场不能用
 ||down.znds.com^
 
-#molitv.cn
+# molitv.cn
 ||ad.molitv.cn^
 ||log.molitv.cn^
 ||log.tv.moliv.cn^
@@ -21,13 +21,13 @@
 ||log2.molitv.cn^
 ||track.molitv.cn^
 
-#cibntv.net
+# cibntv.net
 ||api.adv.ott.cibntv.net^
-#http://tv.sohu.com/ott/sohutv/
+# http://tv.sohu.com/ott/sohutv/
 ||agn.aty.cp45.ott.cibntv.net^
 ||m.aty.cp45.ott.cibntv.net^
 ||mmg.aty.cp45.ott.cibntv.net^
-#http://pd.youku.com/CIBN
+# http://pd.youku.com/CIBN
 ||g.dtv.cn.miaozhen.com^
 ||xtrader-mipdx.cn.miaozhen.com^
 ||ssv.admaster.com.cn^
@@ -35,7 +35,7 @@
 ||ipm.atm.cp31.ott.cibntv.net^
 ||val.atm.cp31.ott.cibntv.net^
 ||valf.atm.cp31.ott.cibntv.net^
-#http://tv.qq.com/
+# http://tv.qq.com/
 ||andrqd.play.aiseet.atianqi.com^
 ||otheve.play.aiseet.atianqi.com^
 ||othstr.play.aiseet.atianqi.com^
@@ -43,14 +43,14 @@
 ||news-l.play.aiseet.atianqi.com^
 ||p-l.play.aiseet.atianqi.com^
 ||t-l.play.aiseet.atianqi.com^
-#v.qq.com #http://www.togic.com/livetv.html
+# v.qq.com #http://www.togic.com/livetv.html
 ||news-l.play.ott.video.qq.com^
 ||omgmta.play.ott.video.qq.com^
-#http://www.91vst.com/index.html
+# http://www.91vst.com/index.html
 ||lives.l.cp81.ott.cibntv.net^
 ||news-l.play.cp81.ott.cibntv.net^
 ||omgmta.play.cp81.ott.cibntv.net^
-#http://app.iqiyi.com/tv/player/
+# http://app.iqiyi.com/tv/player/
 ||397c0.admaster.com.cn^
 ||msg.71.am^
 ||mixer.cupid.ptqy.gitv.tv^
@@ -58,7 +58,7 @@
 ||msga.ptqy.gitv.tv^
 ||store.ptqy.gitv.tv^
 ||t7z.cupid.ptqy.gitv.tv^
-#http://app.pptv.com/pg_get_tv
+# http://app.pptv.com/pg_get_tv
 ||de.as.cp61.ott.cibntv.net^
 ||clickc.admaster.com.cn^
 ||vpptv.admaster.com.cn^
@@ -79,7 +79,7 @@
 ||gas.data.pplive.com^
 ||plt.data.pplive.com^
 ||web.data.pplive.com^
-#http://yn.voole.com/app
+# http://yn.voole.com/app
 ||adinf.voole.com^
 ||apkinfo.voole.com^
 ||adinf.cp11.ott.cibntv.net^
@@ -91,7 +91,7 @@
 ||s.de123.net^
 ||dc.vmoters.com^
 
-#cibn-vst
+# cibn-vst
 ||bkmcgi.play.cp81.ott.cibntv.net^
 ||bksdkconfig.play.cp81.ott.cibntv.net^
 ||brance.play.cp81.ott.cibntv.net^
@@ -101,7 +101,7 @@
 ||p-l.play.cp81.ott.cibntv.net^
 ||sdkconfig.play.cp81.ott.cibntv.net^
 ||t-l.play.cp81.ott.cibntv.net^
-#tv.qq.com
+# tv.qq.com
 ||aiseet.aa.atianqi.com^
 ||dp3.play.aiseet.atianqi.com^
 ||livep.l.aiseet.atianqi.com^
@@ -112,7 +112,7 @@
 ||livew.l.qq.com^
 ||c.l.qq.com^
 ||mdevstat.qqlive.qq.com^
-#iqiyi
+# iqiyi
 ||api.cupid.iqiyi.com^
 ||api.yuedu.iqiyi.com^
 ||c.uaa.iqiyi.com^
@@ -130,13 +130,13 @@
 ||store.iqiyi.com^
 ||t7z.cupid.iqiyi.com^
 ||nl.rcd.iqiyi.com^
-#iqiyi-gitv
+# iqiyi-gitv
 ||api.cupid.ptqy.gitv.tv^
 ||msg.video.ptqy.gitv.tv^
 ||msg2.video.ptqy.gitv.tv^
 # ||nl.rcd.ptqy.gitv.tv^
 ||msg.c002.ottcn.com^
-#iqiyi-paopao
+# iqiyi-paopao
 ||emoticon.sns.iqiyi.com^
 ||hotchat-im.iqiyi.com^
 ||paopao.iqiyi.com^
@@ -145,7 +145,7 @@
 ||paopao1.qiyipic.com^
 ||paopao2.qiyipic.com^
 ||paopao3.qiyipic.com^
-#iqiyi-pps
+# iqiyi-pps
 ||count.game.pps.tv^
 ||game.pps.tv^
 ||static.g.ppstream.com^
@@ -153,18 +153,18 @@
 ||msga.71.am^
 ||androidgo.duapp.com^
 ||noxagile.duapp.com^
-#iqiyi-qiyi
+# iqiyi-qiyi
 ||api.cupid.qiyi.com^
 ||msg.video.qiyi.com^
 ||msg2.video.qiyi.com^
-#letv
+# letv
 ||api.game.letvstore.com^
 ||dev.dc.letv.com^
 ||msg.m.letv.com^
 ||n.mark.letv.com^
 ||static.app.m.letv.com^
 ||test.ark.letv.com^
-#sohu-video
+# sohu-video
 ||agn.aty.sohu.com^
 ||f.aty.sohu.com^
 ||m.aty.sohu.com^
@@ -179,7 +179,7 @@
 ||download.wan.sohu.com^
 ||da.mmarket.com^
 ||sohu.irs01.com^
-#youku
+# youku
 ||ad.api.3g.tudou.com^
 ||stats.tudou.com^
 ||p-log.ykimg.com^
@@ -213,7 +213,7 @@
 ||v.l.youku.com^
 ||valo.atm.youku.com^
 ||wan.youku.com^
-#youku-area
+# youku-area
 ||cms.laifeng.com^
 ||ld.kuaigames.com^
 ||rd.kuaigames.com^
@@ -234,7 +234,7 @@
 ||www.bfshan.cn^
 
 
-#http://www.wasu.cn/
+# http://www.wasu.cn/
 ||ads.wasu.tv^
 ||adsystem.wasu.tv^
 ||adwasu.wasu.tv^
@@ -243,8 +243,5 @@
 ||delivery-pc.wasu.cn^
 ||delivery.wasu.cn^
 ||delivery.maihehd.com^
-
-||twitch.com^
-||twitch.tv^
 
 ||flux.hcdn.ptqy.gitv.tv^
